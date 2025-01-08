@@ -17,6 +17,7 @@ static const Block blocks[] = {
 	{"",	"sb-storage",	10,	19},
 	{"",	"sb-memory",	10,	14},
 	{"",	"sb-cpu",		10,	18},
+	{"",	"sb-gpu",		10,	20},
 	/* {"",	"sb-moonphase",	18000,	17}, */
 	/* {"",	"sb-doppler",	0,	13}, */
 	/* {"",	"sb-mailbox",	180,	12}, */
